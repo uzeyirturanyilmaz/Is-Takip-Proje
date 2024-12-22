@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="25f4b709b2124821b4679dbeb6db2659" Name="Diagram1">
+        <EntityTypeShape EntityType="DbistakipModel.TblAdmin" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbistakipModel.TblDepartmanlar" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbistakipModel.TblFirmalar" Width="1.5" PointX="6.375" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbistakipModel.TblGorevDetay" Width="1.5" PointX="11.125" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbistakipModel.TblGorevler" Width="1.5" PointX="8.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbistakipModel.TblPersonel" Width="1.5" PointX="6.625" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="DbistakipModel.FK_TblPersonel_TblDepartmanlar" ManuallyRouted="false" />
+        <AssociationConnector Association="DbistakipModel.FK_TblGorevDetay_TblGorevler" ManuallyRouted="false" />
+        <AssociationConnector Association="DbistakipModel.FK_TblGorevler_TblPersonel" ManuallyRouted="false" />
+        <AssociationConnector Association="DbistakipModel.FK_TblGorevler_TblPersonel1" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DbistakipModel.TblCagrilar" Width="1.5" PointX="8.625" PointY="4.625" />
+        <AssociationConnector Association="DbistakipModel.FK_TblCagrilar_TblFirmalar" />
+        <EntityTypeShape EntityType="DbistakipModel.TblCagriDetayi" Width="1.5" PointX="10.875" PointY="4.875" />
+        <EntityTypeShape EntityType="DbistakipModel.TblMesajlar" Width="1.5" PointX="8.625" PointY="8.25" />
+        <AssociationConnector Association="DbistakipModel.FK_TblCagriDetayi_TblCagrilar" />
+        <AssociationConnector Association="DbistakipModel.FK_TblMesajlar_TblFirmalar" />
+        <AssociationConnector Association="DbistakipModel.FK_TblMesajlar_TblFirmalar1" />
+        <AssociationConnector Association="DbistakipModel.FK_TblCagrilar_TblPersonel" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

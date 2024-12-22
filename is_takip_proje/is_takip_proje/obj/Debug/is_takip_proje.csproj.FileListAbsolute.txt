@@ -1,0 +1,370 @@
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.exe.config
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.exe
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.pdb
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csprojAssemblyReference.cache
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Form1.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Properties.Resources.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.GenerateResource.cache
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.exe.licenses
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.CopyComplete
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.exe
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.pdb
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanlar.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersoneller.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelİstatistik.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevListesi.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorev.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevDetay.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmAnaForm.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmAktifCagrilar.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmPersonelForm.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmAktifGorevler.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmPasifGorevler.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Login.FrmLogin.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmCagriListesi.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmCagriDetayGirisi.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmCagriAtama.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmYeniDepartman.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelEkle.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmFirmaListesi.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmYeniFirma.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPasifCagrilar.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Login.FrmSifremiUnuttum.resources
+C:\Users\uzeyir\source\repos\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmTamlananGorev.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.exe.config
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.exe
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\is_takip_proje.pdb
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csprojAssemblyReference.cache
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Form1.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmAktifCagrilar.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmAnaForm.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmCagriAtama.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmDepartmanlar.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmFirmaListesi.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorev.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevDetay.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmGorevListesi.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPasifCagrilar.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelEkle.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersoneller.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmPersonelİstatistik.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmTamlananGorev.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmYeniDepartman.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Formlar.FrmYeniFirma.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Login.FrmLogin.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Login.FrmSifremiUnuttum.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmCagriDetayGirisi.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmCagriListesi.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmAktifGorevler.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmPasifGorevler.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.PersonelGorevFormlar.FrmPersonelForm.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.Properties.Resources.resources
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.GenerateResource.cache
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.exe.licenses
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.csproj.CopyComplete
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.exe
+C:\Users\uzeyir\Desktop\isTakipProje 18.12.2024\is_takip_proje\is_takip_proje\obj\Debug\is_takip_proje.pdb
