@@ -24,8 +24,6 @@ Bu proje, şirketler, departmanlar, personeller ve görevlerin yönetimi için m
 |--------------------------------------------------|---------------------------------------------|
 | ![Giriş Paneli](photo1.png)                      | ![Admin Formu](photo2.png) |
 
-Daha fazla ekran görüntüsü için [screenshots/](screenshots/) klasörüne göz atabilirsiniz.
-
 ---
 
 ## 🛠️ Teknolojiler ve Araçlar
