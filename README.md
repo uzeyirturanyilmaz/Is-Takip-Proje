@@ -22,7 +22,7 @@ Bu proje, şirketler, departmanlar, personeller ve görevlerin yönetimi için m
 ## 🖼️ Ekran Görüntüleri
 | Anasayfa Windows Paneli                          | Anasayfa Web Paneli                         |
 |--------------------------------------------------|---------------------------------------------|
-| ![Giriş Paneli](screenshots/photo1/png) | ![Admin Formu](screenshots/photo2/png) |
+| ![Giriş Paneli](photo1.png) | ![Admin Formu](screenshots/photo2/png) |
 
 Daha fazla ekran görüntüsü için [screenshots/](screenshots/) klasörüne göz atabilirsiniz.
 
